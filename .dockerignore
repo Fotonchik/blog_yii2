@@ -1,0 +1,10 @@
+.git/
+.gitignore
+README.md
+docker-compose.yml
+Dockerfile
+docker/
+vendor/
+runtime/
+web/uploads/
+web/assets/
