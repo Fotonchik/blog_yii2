@@ -145,3 +145,8 @@ docker-compose exec app php yii migrate/down
 
 - GitHub: [@yourusername](https://github.com/Fotonchik)
 - Portfolio: [yourportfolio.com](https://hh.ru/resume/4bde0dbeff0b000ce70039ed1f696b666c5642)
+<img width="925" height="753" alt="Редактирование профиля" src="https://github.com/user-attachments/assets/6ef51ada-e026-46bb-9b73-b42222de2758" />
+<img width="935" height="796" alt="Посты" src="https://github.com/user-attachments/assets/4f01a7f3-4458-431f-843e-debca49baea8" />
+<img width="1866" height="843" alt="Главная сайта на yii2" src="https://github.com/user-attachments/assets/b988c7a1-805f-4658-8107-938ace367e1a" />
+
+
